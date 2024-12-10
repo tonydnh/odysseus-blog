@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://tonydnh.github.io/odysseus-blog/"
 languageCode: en-us
 title: 10 + 10 Years
 theme: ["PaperMod"]
