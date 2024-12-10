@@ -1,7 +1,8 @@
 ---
-date: '2024-12-08T18:07:59-06:00'
+date: ''
 draft: false
 title: 'Loss'
+weight: 40
 ---
 
 ### The Cyclopes

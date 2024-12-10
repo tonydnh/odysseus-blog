@@ -2,3 +2,20 @@ baseURL: ""
 languageCode: en-us
 title: 10 + 10 Years
 theme: ["PaperMod"]
+
+params:
+  homeInfoParams:
+    Title: 👋 Welcome to my page!
+    Content: I'm Odysseus. Most people know me as a leader of the Greeks during the Trojan War and for my perilous voyage back to home. I spent a long time away from home in Ithaca, 20 years to be exact (10 years at the war and 10 years coming back), so I made this blog to reflect on the journey and the trials and tribulations I endured on the way back to my throne.
+  
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  # ShowPostNavLinks: true  
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
