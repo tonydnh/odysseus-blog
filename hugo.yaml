@@ -15,7 +15,7 @@ params:
 
       I made this blog to reflect on my journey—sharing the trials, tribulations, and lessons I learned on the way back to my throne.
       
-      
+  defaultTheme: light
   ShowBreadCrumbs: true
   ShowReadingTime: true
   ShowShareButtons: true
