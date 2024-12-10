@@ -2,16 +2,16 @@
 date: ''
 draft: false
 title: 'Loss'
-weight: 40
+weight: 10
 ---
 
-### The Cyclopes
+### The Cyclopes [^1]
 
 After dragging my men back from the tempting lotus plants, we could not afford another detour. We needed to get back home. We sailed the grayish waters until we arrived at the land of the Cyclopes, the men and women who put their trust in gods and have no laws. They lack a second eye and their physique is like that of the gods.
 
 We spent the first night on the ship and when Dawn took the sky we set out to question their hospitality and fear of the gods. I brought my twelve most trustworthy men with me to a high cave occupied by one of these massive men. We waited until nightfall until the giant came home with a bundle of wood intended for fire. Huddled up in the corner, we waited until the Cyclops lit his fire and noticed our presence. 
 
-### Bloodshed and Loss
+### Bloodshed and Loss [^1]
 
 As his guests, I introduced myself and my men hoping for gifts and a feast as a good host would provide. Instead, the Cyclops showed no mercy and savagely murdered two of my finest men. With their brain matter all over the floor, he tore each limb off of their lifeless bodies and indulged in them. In mere moments, their years of love, memories, and accomplishments were rendered meaningless.
 
@@ -24,3 +24,5 @@ We slept in fear for the night until Dawn rose. The one-eyed giant awoke and bar
 But there was no time to grieve, no time to let the weight of their deaths sink in. I knew that if I drowned in my sorrows, I would lose not only more men but also the chance to see my family again. The encounter with the Cyclops showed me that the journey home would cost more than just time. It would take lives, courage, and pieces of myself I may never recover. 
 
 For the sake of my men and my family, I pressed on, carrying the hope that one day their suffering would not be in vain.
+
+[^1]: *Od*. 9.96-311

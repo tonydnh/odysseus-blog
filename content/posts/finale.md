@@ -2,10 +2,10 @@
 date: ''
 draft: false
 title: 'Finale'
-weight: 10
+weight: 40
 ---
 
-### Tipping Point
+### Tipping Point [^1]
 
 After enduring enough abuse in my own home from the treacherous suitors, the time had come to leave my mark and take back what’s rightfully mine. With the help of Athena we planned an archery contest through my wife Penelope, where the winner gets to take her hand in marriage. 
 
@@ -24,3 +24,6 @@ I had no choice but to kill those suitors to protect my family and reclaim my th
 ### The Price of Victory
 
 Although I sit in my throne once more, it was not without the cost of violence and bloodshed. The echoes of war remain, and I carry the battle scars that remind me of what was lost, but also what was gained: my home, my family, and the chance to *rebuild my life*.
+
+[^1]: *Od*. 21.1-6, 406-425  
+*Od*. 22.1-8

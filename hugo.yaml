@@ -5,13 +5,22 @@ theme: ["PaperMod"]
 
 params:
   homeInfoParams:
-    Title: 👋 Welcome to my page!
-    Content: I'm Odysseus. Most people know me as a leader of the Greeks during the Trojan War and for my perilous voyage back to home. I spent a long time away from home in Ithaca, 20 years to be exact (10 years at the war and 10 years coming back), so I made this blog to reflect on the journey and the trials and tribulations I endured on the way back to my throne.
-  
+    Title: Welcome to my page! 👋
+    Content: |
+      I'm ***Odysseus***, and here's a bit about me:
+      1. A leader of the Greeks during the Trojan War.
+      2. Famous for my perilous 20-year journey back home to Ithaca:
+          - 10 years fighting in the Trojan War.
+          - 10 years enduring countless trials on my voyage home
+
+      I made this blog to reflect on my journey—sharing the trials, tribulations, and lessons I learned on the way back to my throne.
+      
+      
   ShowBreadCrumbs: true
   ShowReadingTime: true
   ShowShareButtons: true
-  # ShowPostNavLinks: true  
+  ShowWordCount: true
+  ShowPostNavLinks: true  
 
 menu:
   main:

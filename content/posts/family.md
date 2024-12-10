@@ -2,18 +2,18 @@
 date: ''
 draft: false
 title: 'Family'
-weight: 30
+weight: 20
 ---
 
-### Voyage
+### Voyage [^1]
 
 After turning my men into pigs, the sorceress Circe tasked me with a journey no man has done before: to travel to the house of Hades by ship. She told me I must seek the blind prophet Tiresias for his advice on my homecoming. I wept, knowing that this task would not be possible, but Circe affirmed my resourcefulness and advised me to let the wind blow me to the shores of the Underworld. And so I did.
 
-### Confronting Shadows
+### Confronting Shadows [^2]
 
 I made it to the Land of the Dead. My men and I traversed the eerie wasteland, and I made sure to bring the finest black sheep for Tiresias. I dug a pit with my sword and slit the sheep’s throat. The darkest blood was pouring from its neck and the souls of the past lives came gathering around. I drew my sword to keep them at bay until I met the blind prophet. The sight was haunting: the spirits of fallen soldiers still dressed in battle armor, young boys and girls whose lives were cut short, men and women in old age, and countless others, all united in death.
 
-### Echoes of the Past
+### Echoes of the Past [^3]
 
 I was able to emotionally distance myself from the spirits until I started recognizing some of them. The first being Elpenor, one of my men who outlasted the War. I had no idea he died on Circe’s island, and the initial sight of him was like a blow to the chest. It’s the feeling when your day is going fine up until the moment you receive unexpecting news. I wept, and the tears didn’t stop flowing until I left the tragic Underworld.
 
@@ -30,3 +30,7 @@ I don’t blame my wife if she had married another man, many would assume that a
 This journey to the Underworld stands out from the rest, serving as a reminder of the fragility of life and to embrace the ones you love. I left the Underworld carrying the weight of their stories, wisdom, and sacrifices. Although I will never be able to see them again, I am reminded to cherish every moment I have with those still with me and to be grateful for landing home in Ithaca.
 
 >*What would you say to someone you've lost if you had one more chance to talk to them?*
+
+[^1]: *Od*. 10.486-96
+[^2]: *Od*. 11.24-49
+[^3]: *Od*. 11.50-226, 389-487

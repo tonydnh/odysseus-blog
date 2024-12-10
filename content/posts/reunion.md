@@ -2,10 +2,10 @@
 date: ''
 draft: false
 title: 'Reunion'
-weight: 20
+weight: 30
 ---
 
-### Telemachus
+### Telemachus [^1]
 
 I made it. By the will of the Gods and the hand of fate, I have landed in rocky Ithaca, the home I’ve been absent from for two long decades. My family has grown without me, and now it was time to unite this family and my city. 
 
@@ -17,7 +17,7 @@ Our hug was surrounded by a waterfall of built up tears as I felt the warmth of 
 
 Leaving home was a product of war, but I hold regret in my heart for my absence in Telemachus’ childhood and not being able to show him the ways of life as I learned from my father before me. I can’t control the past, but I can control the present and prepare my son for the life ahead of him. I knew to feel grateful for the hug and to come back into my son’s life.
 
-### Penelope
+### Penelope [^2]
 
 Arriving at my former palace as a beggar, I was once again captivated by the beauty and charm of my beloved wife Penelope, whose same qualities made me fall over and over for her many years ago. It was the thought of returning to our bed that kept me fighting in the rough moments of the War, and now I was one task away from doing just that. 
 
@@ -35,3 +35,5 @@ Returning to Ithaca has been a full circle moment, one that reminded me of what 
 
 No matter how far life takes you or how hard it gets, the bonds of love and family is what keeps you fighting. The years of pain and hardship were worth it. At last, I am home.
 
+[^1]: *Od*. 16.167-222
+[^2]: *Od*. 23.85-343
