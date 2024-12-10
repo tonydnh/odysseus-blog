@@ -3,6 +3,8 @@ date: ''
 draft: false
 title: 'Reunion'
 weight: 30
+summary: 'I am reminded of the strength of family bonds after a long-awaited reunion.'
+hideSummary: false
 ---
 
 ### Telemachus [^1]

@@ -1,8 +1,10 @@
 ---
 date: ''
 draft: false
-title: 'Family'
+title: 'Underworld'
 weight: 20
+summary: 'I embarked on a harrowing journey to the Underworld, where I encountered familiar faces of the past and learned the invaluable lesson.'
+hideSummary: false
 ---
 
 ### Voyage [^1]

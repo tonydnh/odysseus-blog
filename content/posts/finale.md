@@ -3,6 +3,8 @@ date: ''
 draft: false
 title: 'Finale'
 weight: 40
+summary: 'I reflect on the bloody reclaiming of my throne, a reminder of the lingering effects of war.'
+hideSummary: false
 ---
 
 ### Tipping Point [^1]

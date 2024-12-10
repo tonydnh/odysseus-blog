@@ -3,6 +3,8 @@ date: ''
 draft: false
 title: 'Loss'
 weight: 10
+summary: 'I recount the devastating loss of my men and the burden of leadership after our deadly encounter with the Cyclopes.'
+hideSummary: false
 ---
 
 ### The Cyclopes [^1]

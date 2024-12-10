@@ -5,9 +5,9 @@ theme: ["PaperMod"]
 
 params:
   homeInfoParams:
-    Title: Welcome to my page! 👋
+    Title: 10 + 10 Years
     Content: |
-      I'm ***Odysseus***, and here's a bit about me:
+      Hi, I'm **Odysseus**. 👋 Welcome to my page! Here's a bit about me:
       1. A leader of the Greeks during the Trojan War.
       2. Famous for my perilous 20-year journey back home to Ithaca:
           - 10 years fighting in the Trojan War.
@@ -22,9 +22,5 @@ params:
   ShowWordCount: true
   ShowPostNavLinks: true  
 
-menu:
-  main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 10
+# menu:
+#   main:
